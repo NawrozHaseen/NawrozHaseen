@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hey, I'm Nawroz 👋
 
-<!--
-**NawrozHaseen/NawrozHaseen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer Science student at BRAC University, interested in the intersection of **Artificial Intelligence** and real-world problem solving — from NLP and Deep Learning to Bioinformatics and full-stack development.
 
-Here are some ideas to get you started:
+- 🔬 Currently exploring **Graph Neural Networks**, **Variational Autoencoders**, and **computational immunology**
+- 🛠️ Building with **Python**, **PyTorch**, and the **MERN stack**
+- 🌱 Currently working on developing **Educational Apps**
+- 🎮 Big fan of **Videogames**
+- 📫 Reach me at **nawrozhaseen01@gmail.com**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧠 Interests
+- Natural Language Processing & Deep Learning
+- Bioinformatics & Computational Biology
+- Full-Stack Software Development
+- Unsupervised Learning & Representation Learning
+
+---
+
+## 🔧 Tech Stack
+`Python` `PyTorch` `scikit-learn` `MongoDB` `Express.js` `React` `Node.js` `HTML/CSS`
